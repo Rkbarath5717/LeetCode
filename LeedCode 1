@@ -12,4 +12,4 @@ class Solution {
 }
 
 
-//This is a o(n) time complexity
+//This is a o(n^2) time complexity
