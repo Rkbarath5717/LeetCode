@@ -10,3 +10,6 @@ class Solution {
         return new int [] {};
     }
 }
+
+
+//This is a o(n) time complexity
